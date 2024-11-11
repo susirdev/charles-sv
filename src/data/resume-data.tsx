@@ -61,7 +61,7 @@ export const RESUME_DATA = {
   ],
   work: [
     {
-      company: "四川省赵老师食品有限公司",
+      company: "四川赵老师食品有限公司",
       link: "https://baike.baidu.com/item/%E5%9B%9B%E5%B7%9D%E8%B5%B5%E8%80%81%E5%B8%88%E9%A3%9F%E5%93%81%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/51228295?fr=ge_ala",
       badges: ["线下实习"],
       title: "电子商务运营",
